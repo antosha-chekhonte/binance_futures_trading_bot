@@ -1,0 +1,6 @@
+websocket==0.2.1
+websocket-client~=0.58.0
+binance==0.3
+pandas~=1.2.3
+asyncio==3.4.3
+python_binance==1.0.19
